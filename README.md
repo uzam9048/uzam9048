@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Uzam 👋</h1>
 
-<!--
-**uzam9048/uzam9048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Developer • Tech Explorer • Learner</strong><br/>
+  I enjoy building projects, learning new technologies, and improving every day.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning: Web development & open-source tools  
+- 💡 Interests: Coding, automation, UI/UX, and building useful apps  
+- 🔭 Working on: Personal website & new GitHub projects  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** JavaScript • Python • (add more if you want)  
+**Web:** HTML • CSS • (React, Node.js etc. if applicable)  
+**Tools:** Git • VS Code • GitHub  
+
+---
+
+## 📌 Projects
+Here are a few things I'm working on (you can edit later):
+- 🚀 **Personal Website** — hosted on GitHub Pages  
+- 📁 **Small JS/Python Projects** — experimenting & learning  
+- 🧪 **Practice Repo** — trying out new ideas  
+
+---
+
+## 📫 Connect With Me
+- 🌐 Portfolio: https://uzam9048.github.io  
+- 📧 Email: (add your email if you want)
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
