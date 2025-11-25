@@ -1,38 +1,64 @@
-<h1 align="center">Hi, I'm Uzam 👋</h1>
+<h1 align="center">Hi, I'm Usam 👋</h1>
 
 <p align="center">
-  <strong>Developer • Tech Explorer • Learner</strong><br/>
-  I enjoy building projects, learning new technologies, and improving every day.
+  <strong>AI Engineer • Multi-Agent System Architect • Algo Trader</strong><br/>
+  I build practical, production-ready AI systems with a focus on agentic workflows, orchestration, automation, and scalable intelligent applications.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: Web development & open-source tools  
-- 💡 Interests: Coding, automation, UI/UX, and building useful apps  
-- 🔭 Working on: Personal website & new GitHub projects  
+- 🤖 Experienced in **designing and productionizing AI, LLM, and agentic systems**  
+- 🧠 Skilled in building **multi-agent architectures**, orchestration flows, tool-integrated agents & automation pipelines :contentReference[oaicite:1]{index=1}  
+- 🔍 Strong background in **RAG frameworks**, vector search optimization, chunking, indexing & retrieval enhancement :contentReference[oaicite:2]{index=2}  
+- ⚡ Hands-on expertise in **fine-tuning LLM/SLMs**, evaluation, prompt engineering, model optimization, and scalable deployments :contentReference[oaicite:3]{index=3}  
+- 🔧 Experienced with **MLOps**, CI/CD, model serving, containerization & cloud-native AI infrastructure :contentReference[oaicite:4]{index=4}  
+- 🧪 Experience in **algo-trading and backtesting** using Python, PineScript & MT5 (supporting skill, not primary focus)
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** JavaScript • Python • (add more if you want)  
-**Web:** HTML • CSS • (React, Node.js etc. if applicable)  
-**Tools:** Git • VS Code • GitHub  
+## 🧠 AI/ML Expertise
+- **Agentic Systems:** Multi-agent orchestration, routing, tool integration, conversation/state management  
+- **RAG Systems:** Document parsing (PDF, docs, images, videos, HTML), embeddings, retrieval optimization, caching, citation pipelines  
+- **NLP & GenAI:** Summarization, NLQ-to-SQL, query understanding, generation tasks, custom model training :contentReference[oaicite:5]{index=5}  
+- **Modeling:** Transformers, CNNs, RNNs, LSTMs, deep learning foundations  
+- **Automation:** Intelligent workflows, API integrations, scalable AI microservices  
 
 ---
 
-## 📌 Projects
-Here are a few things I'm working on (you can edit later):
-- 🚀 **Personal Website** — hosted on GitHub Pages  
-- 📁 **Small JS/Python Projects** — experimenting & learning  
-- 🧪 **Practice Repo** — trying out new ideas  
+## 🛠️ Technologies & Tools
+**Programming:** Python • SQL :contentReference[oaicite:6]{index=6}  
+**AI/LLM Stack:**  
+- HuggingFace • LangChain • LangGraph • Langfuse • Vertex AI :contentReference[oaicite:7]{index=7}  
+- Vector Databases • Embedding Models • Prompt Engineering  
+- Docker • FastAPI • Redis • Airflow • Cloud Run • OpenShift :contentReference[oaicite:8]{index=8}  
+
+**Cloud:** GCP • AWS Sagemaker  
+**Supporting Skills:** PineScript • MT5 automation
 
 ---
 
-## 📫 Connect With Me
-- 🌐 Portfolio: https://uzam9048.github.io  
-- 📧 Email: uzampattupara@gmail.com
+## 📚 Certifications
+- TensorFlow Developer — DeepLearning.AI  
+- DeepLearning.ai — Deep Learning Specialization (CNNs, RNNs, Transformers)  
+- Google Cloud — Big Data & ML Fundamentals :contentReference[oaicite:9]{index=9}  
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
+## 📌 What I Build
+- 🔹 Multi-agent AI systems  
+- 🔹 RAG pipelines with optimized retrieval  
+- 🔹 LLM fine-tuning & evaluation frameworks  
+- 🔹 Intelligent automation tools & APIs  
+- 🔹 Data workflows and ML deployment pipelines  
+- 🔹 (Side) Trading automation experiments
+
+---
+
+## 🌍 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/usammohammedp  
+- Email: usam.mohammed.p@gmail.com  
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! Feel free to explore and star my repositories.</p>
