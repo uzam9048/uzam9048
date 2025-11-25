@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 - 🤖 Experienced in **designing and productionizing AI, LLM, and agentic systems**  
-- 🧠 Skilled in building **multi-agent architectures**, orchestration flows, tool-integrated agents & automation pipelines :contentReference[oaicite:1]{index=1}  
-- 🔍 Strong background in **RAG frameworks**, vector search optimization, chunking, indexing & retrieval enhancement :contentReference[oaicite:2]{index=2}  
-- ⚡ Hands-on expertise in **fine-tuning LLM/SLMs**, evaluation, prompt engineering, model optimization, and scalable deployments :contentReference[oaicite:3]{index=3}  
-- 🔧 Experienced with **MLOps**, CI/CD, model serving, containerization & cloud-native AI infrastructure :contentReference[oaicite:4]{index=4}  
-- 🧪 Experience in **algo-trading and backtesting** using Python, PineScript & MT5 (supporting skill, not primary focus)
+- 🧠 Skilled in building **multi-agent architectures**, orchestration flows, tool-integrated agents & automation pipelines 
+- 🔍 Strong background in **RAG frameworks**, vector search optimization, chunking, indexing & retrieval enhancement
+- ⚡ Hands-on expertise in **fine-tuning LLM/SLMs**, evaluation, prompt engineering, model optimization, and scalable deployments  
+- 🔧 Experienced with **MLOps**, CI/CD, model serving, containerization & cloud-native AI infrastructure
+- 🧪 Experience in **algo-trading and backtesting** using Python, PineScript & MT5 
 
 ---
 
