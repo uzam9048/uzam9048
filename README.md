@@ -31,7 +31,7 @@ Here are a few things I'm working on (you can edit later):
 
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://uzam9048.github.io  
-- 📧 Email: (add your email if you want)
+- 📧 Email: uzampattupara@gmail.com
 
 ---
 
