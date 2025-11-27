@@ -1,57 +1,33 @@
 <h1 align="center">Hi, I'm Uzam 👋</h1>
 
 <p align="center">
-  <strong>AI Engineer • Multi-Agent System Architect • Algo Trader</strong><br/>
-  I build practical, production-ready AI systems with a focus on agentic workflows, orchestration, automation, and scalable intelligent applications.
+  <strong>AI Engineer • Multi-Agent System Developer</strong><br/>
+  I build practical, production-ready systems focused on automation, orchestration, and intelligent workflows.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🤖 Experienced in **designing and productionizing AI, LLM, and agentic systems**  
-- 🧠 Skilled in building **multi-agent architectures**, orchestration flows, tool-integrated agents & automation pipelines 
-- 🔍 Strong background in **RAG frameworks**, vector search optimization, chunking, indexing & retrieval enhancement
-- ⚡ Hands-on expertise in **fine-tuning LLM/SLMs**, evaluation, prompt engineering, model optimization, and scalable deployments  
-- 🔧 Experienced with **MLOps**, CI/CD, model serving, containerization & cloud-native AI infrastructure
-- 🧪 Experience in **algo-trading and backtesting** using Python, PineScript & MT5 
+- Experienced in designing **agentic and multi-agent systems**  
+- Skilled in **RAG pipelines**, retrieval logic, and scalable backend components  
+- Comfortable with **LLM integration**, prompt design, and automation workflows  
+- Light experience in **trading automation** using Python, PineScript & MT5  
 
 ---
 
-## 🧠 AI/ML Expertise
-- **Agentic Systems:** Multi-agent orchestration, routing, tool integration, conversation/state management  
-- **RAG Systems:** Document parsing (PDF, docs, images, videos, HTML), embeddings, retrieval optimization, caching, citation pipelines  
-- **NLP & GenAI:** Summarization, NLQ-to-SQL, query understanding, generation tasks, custom model training 
-- **Modeling:** Transformers, CNNs, RNNs, LSTMs, deep learning foundations  
-- **Automation:** Intelligent workflows, API integrations, scalable AI microservices  
+## 🛠️ Core Skills
+- **AI/LLM Tools:** HuggingFace, LangChain, LangGraph, Langfuse  
+- **Backend & Infra:** Python, FastAPI, Docker, Redis  
+- **Cloud:** GCP, AWS Sagemaker  
+- **Other:** SQL, Vector DBs, workflow automation  
 
 ---
 
-## 🛠️ Technologies & Tools
-**Programming:** Python • SQL 
-**AI/LLM Stack:**  
-- HuggingFace • LangChain • LangGraph • Langfuse • Vertex AI 
-- Vector Databases • Embedding Models • Prompt Engineering  
-- Docker • FastAPI • Redis • Airflow • Cloud Run • OpenShift
-
-**Cloud:** GCP • AWS Sagemaker  
-**Supporting Skills:** PineScript • MT5 automation
-
----
-
-## 📚 Certifications
-- TensorFlow Developer — DeepLearning.AI  
-- DeepLearning.ai — Deep Learning Specialization (CNNs, RNNs, Transformers)  
-- Google Cloud — Big Data & ML Fundamentals :contentReference
-
----
-
-## 📌 What I Build
-- 🔹 Multi-agent AI systems  
-- 🔹 RAG pipelines with optimized retrieval  
-- 🔹 LLM fine-tuning & evaluation frameworks  
-- 🔹 Intelligent automation tools & APIs  
-- 🔹 Data workflows and ML deployment pipelines  
-- 🔹 Trading automation experiments
+## 📌 What I Work On
+- Agentic workflows and automated systems  
+- Clean backend services for AI applications  
+- Retrieval and knowledge workflows  
+- Trading automations
 
 ---
 
@@ -61,4 +37,4 @@
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile! Feel free to explore and star my repositories.</p>
+<p align="center">⭐ Thanks for visiting my profile!</p>
